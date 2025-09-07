@@ -1,4 +1,4 @@
-# Android App Project Outline
+# Android App Project Outline - To-Do List App
 Ryan Alves
 
 Professor Worsley
