@@ -41,7 +41,12 @@ The functionality of the to-do list app is quite simple. The functionalities of 
 
 The designs and wireframes for the to-do list app are listed below:
 
-Screen 1: Home & Task List – This is where the user will be able to view their tasks, add more tasks, mark tasks completed, or delete tasks. The user will see a heading that states “My Tasks”. It will also include a middle section that will display to the user their tasks, each task will have a checkbox and a delete task icon next to it. This screen will also feature an add task plus sign near the bottom of the screen, where they can click to add new tasks to the to-do list.
-Screen 2: Add Task – This is where the user will be able to add new tasks to their list when they press the plus sign from screen 1. The user will see a heading that states “Add New Task”. It will include a middle section that will prompt the user to add a task name. The middle section will also include a “Save Task” button in order for the user to save the task to their to-do list.
-Screen 3: Edit Task – This is where the user will be able to edit their existing tasks if need be. The user will see a heading that states “Edit Task”. It will include a middle section that will provide the user with the task name, where they can edit it, and then click “Update Task”. This will allow the user to then save the new edited task to their to-do list.
+**Screen 1: Home & Task List**
+- This is where the user will be able to view their tasks, add more tasks, mark tasks completed, or delete tasks. The user will see a heading that states “My Tasks”. It will also include a middle section that will display to the user their tasks, each task will have a checkbox and a delete task icon next to it. This screen will also feature an add task plus sign near the bottom of the screen, where they can click to add new tasks to the to-do list.
+
+**Screen 2: Add Task**
+- This is where the user will be able to add new tasks to their list when they press the plus sign from screen 1. The user will see a heading that states “Add New Task”. It will include a middle section that will prompt the user to add a task name. The middle section will also include a “Save Task” button in order for the user to save the task to their to-do list.
+
+**Screen 3: Edit Task**
+- This is where the user will be able to edit their existing tasks if need be. The user will see a heading that states “Edit Task”. It will include a middle section that will provide the user with the task name, where they can edit it, and then click “Update Task”. This will allow the user to then save the new edited task to their to-do list.
 
