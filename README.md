@@ -31,11 +31,11 @@ As far as back-end support goes, within the app, there will be multiple tools us
 
 The functionality of the to-do list app is quite simple. The functionalities of the app are listed below:
 
-1.	Add a new task – This is where the user will add any task that they wish to their to-do list. This is important because in order to make their to-do list, the user must be able to add tasks to their to-do list.
-2.	View to-do list tasks – This is where the user will be able to view their to-do list and the tasks within their to-do list. This is important because when a user adds tasks to their to-do list, they need to be able to view the tasks so that they can keep track of them throughout their day.
-3.	Mark tasks as completed – This is how the user will be able to interact with their to-do list by marking tasks as completed if they wish to do so. This is important for the quality of life of the app because the user will be able to know exactly what tasks they have completed, so they avoid any confusion throughout the day.
+1.	Add a New Task – This is where the user will add any task that they wish to their to-do list. This is important because in order to make their to-do list, the user must be able to add tasks to their to-do list.
+2.	View To-Do List Tasks – This is where the user will be able to view their to-do list and the tasks within their to-do list. This is important because when a user adds tasks to their to-do list, they need to be able to view the tasks so that they can keep track of them throughout their day.
+3.	Mark Tasks as Completed – This is how the user will be able to interact with their to-do list by marking tasks as completed if they wish to do so. This is important for the quality of life of the app because the user will be able to know exactly what tasks they have completed, so they avoid any confusion throughout the day.
 4.	Edit Tasks – This is how the user will be able to edit existing tasks on their to-do lists. This is important because if a user had a task that they needed to complete, but they realized they worded it wrong or need it to be completely different, they can save themselves from the confusion and change it to whatever they please.
-5.	Delete tasks – This is how the user will be able to delete tasks if they wish to do so. This is important because if the user so longer needs to complete a task, they can remove it, saving them clutter space in their to-do list.
+5.	Delete Tasks – This is how the user will be able to delete tasks if they wish to do so. This is important because if the user so longer needs to complete a task, they can remove it, saving them clutter space in their to-do list.
 
 ### Design (Wireframes)
 
