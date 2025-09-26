@@ -52,8 +52,8 @@ The designs and wireframes for the to-do list app are listed below:
 
 **Wireframes:**
 
-<img width="628" height="260" alt="wireframes for to-do list app" src="https://github.com/user-attachments/assets/1c43e4dc-078b-4b44-ab7b-cbe4b9085d05" />
+<img width="635" height="265" alt="Updated Wireframes M5" src="https://github.com/user-attachments/assets/16a1e5ca-afe7-4933-9ffe-7cf869fd3060" />
 
 ### Word Outline:
 
-https://docs.google.com/document/d/180ZQOszE30sgE3mhKlgUuKMZ1hL5Bte1/edit?usp=sharing&ouid=111946477793718433431&rtpof=true&sd=true
+https://docs.google.com/document/d/1sA_4pX3rwbEFuBVn0Yo7u8LxsElAb8Qh/edit?usp=sharing&ouid=115395970090344422090&rtpof=true&sd=true
