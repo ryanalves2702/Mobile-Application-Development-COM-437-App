@@ -56,4 +56,4 @@ The designs and wireframes for the to-do list app are listed below:
 
 ### Word Outline:
 
-https://docs.google.com/document/d/1sA_4pX3rwbEFuBVn0Yo7u8LxsElAb8Qh/edit?usp=drive_link&ouid=115395970090344422090&rtpof=true&sd=true
+https://docs.google.com/document/d/1FIOhRXZYIPzfbtSzPLe8aNfI9nmgZurP/edit?usp=drive_link&ouid=115395970090344422090&rtpof=true&sd=true
